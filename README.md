@@ -20,38 +20,38 @@ The dashboard was built using the following tools and technologies:
 Road accidents continue to cause significant loss of life and economic damage, yet decision-makers often lack a consolidated, insight-driven view of accident data. Raw datasets make it difficult to identify where, why, and under what conditions casualties are increasing. Without clear visibility into trends by severity, location, road type, and vehicle category, authorities struggle to prioritize safety initiatives effectively.  
 
 🎯 Goal of the Dashboard:  
-   To provide a single source of truth for road accident and casualty analysis  
-   To identify high-risk road conditions, vehicle types, and locations  
-   To compare current year vs previous year performance and measure improvement or deterioration  
-   To enable data-driven policy decisions aimed at reducing fatalities and serious injuries  
-   To support proactive safety planning rather than reactive reporting  
+    - To provide a single source of truth for road accident and casualty analysis  
+    - To identify high-risk road conditions, vehicle types, and locations  
+    - To compare current year vs previous year performance and measure improvement or deterioration  
+    - To enable data-driven policy decisions aimed at reducing fatalities and serious injuries  
+    - To support proactive safety planning rather than reactive reporting  
 
  📈Key Dashboard Features 
 •  KPI Summary Cards :   
-     •	Total casualties, fatal, serious, and slight casualties  
-     •	Year-over-year percentage change to track improvement or decline  
-     •	Clear visual hierarchy for executive-level consumption  
+     -	Total casualties, fatal, serious, and slight casualties  
+     -	Year-over-year percentage change to track improvement or decline  
+     -	Clear visual hierarchy for executive-level consumption  
 •  Casualties by Severity :  
-     •	Breakdown of Fatal, Serious, and Slight casualties  
-     •	Percentage contribution to total casualties for quick risk assessment  
+     -	Breakdown of Fatal, Serious, and Slight casualties  
+     -	Percentage contribution to total casualties for quick risk assessment  
 •  Monthly Trend Analysis (CY vs PY) :   
-     •	Line chart comparing current year and previous year monthly casualties  
-     •	Helps identify seasonal spikes and recurring risk periods  
+     -	Line chart comparing current year and previous year monthly casualties  
+     -	Helps identify seasonal spikes and recurring risk periods  
 •  Vehicle Type Analysis :   
-     •	Casualties segmented by Cars, Bikes, Vans, Buses, Agricultural, and Others  
-     •	Highlights vehicle categories contributing most to casualties  
+     -	Casualties segmented by Cars, Bikes, Vans, Buses, Agricultural, and Others  
+     -	Highlights vehicle categories contributing most to casualties  
 •  Road Type & Road Surface Analysis :   
-     •	Identification of high-risk road types such as single carriageways and roundabouts  
-     •	Road surface conditions (Dry, Wet, Snow/Ice) to assess environmental impact  
+     -	Identification of high-risk road types such as single carriageways and roundabouts  
+     -	Road surface conditions (Dry, Wet, Snow/Ice) to assess environmental impact  
 •  Urban vs Rural Distribution :   
-     •	Casualty comparison between urban and rural areas  
-     •	Percentage split to support targeted safety strategies  
+     -	Casualty comparison between urban and rural areas  
+     -	Percentage split to support targeted safety strategies  
 •  Light Condition Analysis :   
-     •	Daylight vs Darkness casualty distribution  
-     •	Helps assess visibility-related risks  
+     -	Daylight vs Darkness casualty distribution  
+     -	Helps assess visibility-related risks  
 •  Interactive Filters :   
-     •	Year, road surface, weather, and area-type slicers  
-     •	Enables dynamic, user-driven exploration of data  
+     -	Year, road surface, weather, and area-type slicers  
+     -	Enables dynamic, user-driven exploration of data  
 
 💡 Business Impact & Insights :  
     - Identified that single carriageways account for the highest number of casualties, indicating critical infrastructure risk zones  
